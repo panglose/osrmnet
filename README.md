@@ -37,7 +37,7 @@ Open Powershell and run .\build.ps1 from the root directory of the project.
 osrm-backend project does not officially support Windows platform. The windows binaries in that project are not the latest.
 1. Clone this project
 2. Run this command from powershell:
-`.\build.ps1 -Target "GetDependencies"
+`.\build.ps1 --Target="GetDependencies"
 3. Location of the osrm libraries and app: .\osrmnet\src\osrm.net\libosrm\redist\osrm_5.26.0.zip
 
 # License
