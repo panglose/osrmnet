@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3935E5C6-16E4-4700-8E5B-ADA4A62F498F}</ProjectGuid>
-    <TargetFramework>net6</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Keyword>ManagedCProj</Keyword>
     <RootNamespace>osrmnet</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
